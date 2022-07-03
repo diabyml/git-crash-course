@@ -10,3 +10,5 @@ Gi allows us:
     (git commit -am 'message') ==> shorthand for git add . and git commit ....
     (git push) ==> push my changes to github
     (git status) ==> get status of repository
+    (git pull) ==> get the github repository version in to your local repository
+        Use case: The github respo is more recent than yours

@@ -4,5 +4,9 @@ Gi allows us:
     - Work on new features in separate branches and merge it to main branch later
     - Reverse back to a previous version of our code 
 
-    git clone ${git-url}  ===> get repository from github
-    git add . or path ===> add current directory to be uploaded to gihub
+    (git clone) ${git-url}  ===> get repository from github
+    (git add) . or path ===> add current directory to be uploaded to gihub
+    (git commit -m 'message-content-here') ==> prepare content to push
+    (git commit -am 'message') ==> shorthand for git add . and git commit ....
+    (git push) ==> push my changes to github
+    (git status) ==> get status of repository

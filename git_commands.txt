@@ -1,0 +1,8 @@
+Gi allows us:
+    - Store our code in a repository
+    - Work in a team, each member have access to repository and make changes
+    - Work on new features in separate branches and merge it to main branch later
+    - Reverse back to a previous version of our code 
+
+    git clone ${git-url}  ===> get repository from github
+    git add . or path ===> add current directory to be uploaded to gihub
